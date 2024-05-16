@@ -1,1 +1,1 @@
-Here is the result: ${first}, {second}
+Here is the result: Hello the is first txt, Hello this is second txt
